@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba6772d5-1668-4bc4-9af8-50012f2e97c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/shop-project/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-project/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/shop-project/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/shop-project" />
+  </component>
+  <component name="ProjectId" id="1i9F3onghoCg26N0Wcud6VSamT5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/shop-project/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Shop-server/app.js" working-dir="$PROJECT_DIR$/Shop-server">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba6772d5-1668-4bc4-9af8-50012f2e97c5" name="Default Changelist" comment="" />
+      <created>1601311704250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601311704250</updated>
+      <workItem from="1601311706478" duration="58000" />
+      <workItem from="1602349206944" duration="1318000" />
+      <workItem from="1602596336426" duration="358000" />
+      <workItem from="1602596962075" duration="1711000" />
+      <workItem from="1602598824044" duration="35000" />
+      <workItem from="1602599528698" duration="641000" />
+      <workItem from="1602604760132" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="227" width="374" height="570" key="#com.intellij.ide.util.MemberChooser" timestamp="1602349518848">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="594" y="227" width="374" height="570" key="#com.intellij.ide.util.MemberChooser/67.27.1433.972@67.27.1433.972" timestamp="1602349518848" />
+    <state x="556" y="281" key="#xdebugger.evaluate" timestamp="1602597650226">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="556" y="281" key="#xdebugger.evaluate/67.27.1433.972@67.27.1433.972" timestamp="1602597650226" />
+    <state width="778" height="568" key="DebuggerActiveHint" timestamp="1602597198316">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="778" height="568" key="DebuggerActiveHint/67.27.1433.972@67.27.1433.972" timestamp="1602597198316" />
+    <state width="1410" height="252" key="GridCell.Tab.0.bottom" timestamp="1602598857882">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="252" key="GridCell.Tab.0.bottom/67.27.1433.972@67.27.1433.972" timestamp="1602598857882" />
+    <state width="1410" height="252" key="GridCell.Tab.0.center" timestamp="1602598857882">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="252" key="GridCell.Tab.0.center/67.27.1433.972@67.27.1433.972" timestamp="1602598857882" />
+    <state width="1410" height="252" key="GridCell.Tab.0.left" timestamp="1602598857881">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="252" key="GridCell.Tab.0.left/67.27.1433.972@67.27.1433.972" timestamp="1602598857881" />
+    <state width="1410" height="252" key="GridCell.Tab.0.right" timestamp="1602598857882">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="252" key="GridCell.Tab.0.right/67.27.1433.972@67.27.1433.972" timestamp="1602598857882" />
+    <state width="1410" height="311" key="GridCell.Tab.1.bottom" timestamp="1602598516013">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.1.bottom/67.27.1433.972@67.27.1433.972" timestamp="1602598516013" />
+    <state width="1410" height="311" key="GridCell.Tab.1.center" timestamp="1602598516012">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.1.center/67.27.1433.972@67.27.1433.972" timestamp="1602598516012" />
+    <state width="1410" height="311" key="GridCell.Tab.1.left" timestamp="1602598516012">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.1.left/67.27.1433.972@67.27.1433.972" timestamp="1602598516012" />
+    <state width="1410" height="311" key="GridCell.Tab.1.right" timestamp="1602598516012">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.1.right/67.27.1433.972@67.27.1433.972" timestamp="1602598516012" />
+    <state width="1410" height="311" key="GridCell.Tab.2.bottom" timestamp="1602598516014">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.2.bottom/67.27.1433.972@67.27.1433.972" timestamp="1602598516014" />
+    <state width="1410" height="311" key="GridCell.Tab.2.center" timestamp="1602598516013">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.2.center/67.27.1433.972@67.27.1433.972" timestamp="1602598516013" />
+    <state width="1410" height="311" key="GridCell.Tab.2.left" timestamp="1602598516013">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.2.left/67.27.1433.972@67.27.1433.972" timestamp="1602598516013" />
+    <state width="1410" height="311" key="GridCell.Tab.2.right" timestamp="1602598516013">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.2.right/67.27.1433.972@67.27.1433.972" timestamp="1602598516013" />
+    <state width="1410" height="311" key="GridCell.Tab.3.bottom" timestamp="1602598516015">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.3.bottom/67.27.1433.972@67.27.1433.972" timestamp="1602598516015" />
+    <state width="1410" height="311" key="GridCell.Tab.3.center" timestamp="1602598516014">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.3.center/67.27.1433.972@67.27.1433.972" timestamp="1602598516014" />
+    <state width="1410" height="311" key="GridCell.Tab.3.left" timestamp="1602598516014">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.3.left/67.27.1433.972@67.27.1433.972" timestamp="1602598516014" />
+    <state width="1410" height="311" key="GridCell.Tab.3.right" timestamp="1602598516014">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state width="1410" height="311" key="GridCell.Tab.3.right/67.27.1433.972@67.27.1433.972" timestamp="1602598516014" />
+    <state x="275" y="135" width="1016" height="738" key="SettingsEditor" timestamp="1602349661424">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="275" y="135" width="1016" height="738" key="SettingsEditor/67.27.1433.972@67.27.1433.972" timestamp="1602349661424" />
+    <state x="167" y="109" width="1233" height="782" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601311758160">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="167" y="109" width="1233" height="782" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1433.972@67.27.1433.972" timestamp="1601311758160" />
+    <state x="431" y="74" width="704" height="867" key="find.popup" timestamp="1602598641950">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="431" y="74" width="704" height="867" key="find.popup/67.27.1433.972@67.27.1433.972" timestamp="1602598641950" />
+    <state x="446" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1602597606461">
+      <screen x="67" y="27" width="1433" height="972" />
+    </state>
+    <state x="446" y="231" width="672" height="678" key="search.everywhere.popup/67.27.1433.972@67.27.1433.972" timestamp="1602597606461" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Shop-server/business-logic/business-logic.js</url>
+          <line>35</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Shop-server/Controllers/controller.js</url>
+          <line>88</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="productToAdd._doc.productName" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
