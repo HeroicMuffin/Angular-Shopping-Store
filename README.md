@@ -31,24 +31,17 @@ Server End Points:
 
 ## Database modelling
 
--Product:
-{
-    productName: String,
-    category: String,
-    price: Number,
-    picture: String
-}
+-Product model
 
--User:
-{
-    _id: String,
-    email: String,
-    password: String,
-    city: String,
-    street: String,
-    name: String,
-    lastName: String,
-    role: String,
-    shipments: Array
-}# Angular-Shopping-Store
+| _id_ | productName  | category | price  | picture |
+| :----: | ---------- | -------- | ------ | ------- |
+|  Objectid()  | String    | String    | Int  | String |
+
+
+-User model
+
+| _id_ | email | password | city  | street | name | lastName | role | shipments |
+| :----: | ------- | ------ | ------- | ------ | ------ | ------ | ------ | ------ |
+|  String  | String | String | String | String | String | String | String | Array |
+
 # Angular-Shopping-Store
