@@ -1,0 +1,5 @@
+{
+    "mongodb": {
+        "conPath": "mongodb://mongo:27017/ngShop"
+    }
+}

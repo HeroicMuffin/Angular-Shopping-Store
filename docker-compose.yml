@@ -1,0 +1,39 @@
+version: "3.7"
+
+services:
+  node-server:
+    build:
+      context: ./Shop-server
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - INSTANCE=node-server
+    volumes:
+      - ./Shop-server:/home/app
+
+  app:
+    build:
+      context: ./Shop-project
+      dockerfile: Dockerfile
+    ports:
+      - "4200:4200"
+    environment:
+      - INSTANCE=ui
+    volumes:
+      - ./:/server
+
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./Database:/data/db
+
+  mongo_seed:
+    image: mongo:3.2.6
+    links:
+      - mongo
+    volumes:
+      - ./mongo-seed:/mongo-seed
+    command: /mongo-seed/import.sh
