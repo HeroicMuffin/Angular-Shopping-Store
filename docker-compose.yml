@@ -14,7 +14,7 @@ services:
 
   app:
     build:
-      context: ./Shop-project
+      context: ./Shop-client
       dockerfile: Dockerfile
     ports:
       - "4200:4200"
