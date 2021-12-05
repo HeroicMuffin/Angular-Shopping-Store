@@ -11,8 +11,7 @@ Some functionalities are not fully implemented.
 
 - clone this repository
 - Development
-    - Install : `npm i` for both client and server folders ( I use Node v10.19.0 )
-    - Run : `nodemon app` to run the server, `ng s --aot` to run client
+    - Run : Simply run command: docker-compose up
     - Navigate to http://localhost:4200
 
 
